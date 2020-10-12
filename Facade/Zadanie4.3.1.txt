@@ -1,0 +1,2 @@
+Po usunięciu moetod z podklasy pojawia się błąd ze względu na dekorator @abstractmethod.
+W przypadku usunięcia metod z podklas i dekoratorów z nadklas wykonywany jest kod z nadklasy.
